@@ -15,7 +15,7 @@
 1. PolarPlots
 
 ---
-Repo: https://github.com/KhaledMahmudKM/Matlab-AppList
+Repo: [https://github.com/KhaledMahmudKM/Matlab-AppList](https://github.com/KhaledMahmudKM/Matlab-AppList)
 
 Download and run the .mlapp (or .m) file in Matlab. Some Apps need some other dependent additional files.
 
