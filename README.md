@@ -24,6 +24,7 @@ View a sine wave in time and frequency domain.
 
 ![SinewaveTimeFreq](/img/SinewaveTimeFreq.png)
 
+
 ## CombineSinewave
 
 Combine (add) multiple sine waves. View the result in time and frequency domian.
@@ -45,7 +46,6 @@ Record audio, and view the recording in time and frequency domain.
 DTMF tones are composed to 2 pure sine waves. This app shows the time and frewquency view of tones produced by the digits and symbols of a telephone keypad. 
 
 ![DTMF](/img/DTMF.png)
-
 
 ## AnalogModulation
 Amplitude modulation (AM) and frequency modulation (FM) of a tone.
@@ -83,4 +83,4 @@ Plot trigonotetric equations in a polar diagram. Sample equations are provided.
 
 ---
 ---
-*Last updated: Nov 30 2023.*
+*Last updated: Dec 7 2023.*
