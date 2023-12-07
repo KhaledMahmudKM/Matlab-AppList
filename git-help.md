@@ -20,3 +20,8 @@ git status
 git commit -m "message"
 git push -u origin main
 ```
+
+## To remove a stored creadential
+```sh
+git-credential-manager github logout githubusername
+```
